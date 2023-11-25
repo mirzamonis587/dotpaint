@@ -3,6 +3,7 @@ import turtle as t
 print()
 t.colormode(255)
 tim = t.Turtle()
+l
 tim.speed("fastest")
 tim.penup()
 tim.hideturtle()
