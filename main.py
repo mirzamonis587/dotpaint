@@ -1,5 +1,6 @@
 import random
 import turtle as t
+print()
 t.colormode(255)
 tim = t.Turtle()
 tim.speed("fastest")
